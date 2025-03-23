@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+	<card autofill="off" first_stamp="1738486048266" id="1835161366" star="false" template="true" time_stamp="1738489908816" title="Carte grise Francaise">
+		<field name="Numéro de certificat" type="text"/>
+		<field name="A - Numéro d'Immatriculation" type="text"/>
+		<field name="B - Date première immatriculation" type="date"/>
+		<field name="C.1 - Propriétaire" type="text"/>
+		<field name="C.3 - Adresse du titulaire du véhicule" type="text"/>
+		<field name="C.4a - propriétaire du véhicule ?" type="text"/>
+		<field name="C.4.1 - Cotitulaires" type="text"/>
+		<field name="D.1 - Marque du véhicule" type="text"/>
+		<field name="D.2 - Modèle et version du véhicule" type="text"/>
+		<field name="D2.1 - code d’identification national du véhicule (type MIN)" type="text"/>
+		<field name="D.3 - Dénomination commerciale du véhicule" type="text"/>
+		<field name="E - Numéro d’identification du véhicule" type="text"/>
+		<field name="F.1 - PTAC du véhicule" type="number"/>
+		<field name="F.2 - Masse maximale du véhicule seul" type="number"/>
+		<field name="F.3 - Masse du véhicule et masse d’un engin remorqué" type="number"/>
+		<field name="G - Masse du véhicule avec carrosserie et attelage" type="number"/>
+		<field name="G.1 - Poids à vide national" type="number"/>
+		<field name="H. Période de validité du certificat d’immatriculation H. Période de validité du certificat d’immatriculation H. Période de validité du certificat d’immatriculation H. Période de validité du certificat d’immatriculation H. Période de validité du certificat d’immatriculation H - Période de validité du certificat d’immatriculation" type="number"/>
+		<field name="I - Date du certificat" type="date"/>
+		<field name="J - Catégorie du véhicule CE" type="text"/>
+		<field name="J.1 - Genre national" type="text"/>
+		<field name="J.2 - Carrosserie CE" type="text"/>
+		<field name="J.3 - Carrosserie : Désignation nationale" type="text"/>
+		<field name="K - Numéro de réception par type" type="text"/>
+		<field name="P.1 - Cylindrée en cm3" type="text"/>
+		<field history="{&quot;1738487446595&quot;:&quot;P.2 - Puissance nette maximale en kW&quot;}" name="P.2 - Puissance nette maximale en kW" type="number"/>
+		<field name="P.3 - Type de carburant" type="number"/>
+		<field name="Q - Puissance massique (motos)" type="number"/>
+		<field name="S.1  Nombre de places assises" type="number"/>
+		<field name="S.2 - Nombre de places debout" type="number"/>
+		<field name="P.6 - Puissance administrative nationale (CV)" type="text"/>
+		<field name="U.1 - Niveau sonore à l’arrêt en dB(A)" type="number"/>
+		<field name="U.2 - Vitesse du moteur" type="number"/>
+		<field name="V.7 - Taux d’émission de CO2 " type="number"/>
+		<field name="V.9 - Classe environnementale CE" type="text"/>
+		<field name="X.1 - Date prochain contrôle technique" type="date"/>
+		<field name="Y.1 Montant de la taxe Régionale (entier 2 déc)" type="number"/>
+		<field name="Y.2 Montant taxe formation professionnelle (entier 2 déc)" type="number"/>
+		<field name="Y.3 - Montant de la taxe véhicules polluants (entier 2 déc)" type="number"/>
+		<field name="Y.4 - Montant de la taxe de gestion administrative (entier 2 déc)" type="number"/>
+		<field name="Y.5 - Montant redevance acheminement (entier 2 déc)" type="number"/>
+		<field name="Y.6 - Coût total de la carte grise" type="number"/>
+		<field name="Z.1 - Mentions particulières" type="text"/>
+		<field name="Z.2 - Mentions particulières" type="text"/>
+		<field name="Z.3 - Mentions particulières" type="text"/>
+		<field name="Z.4 - Mentions particulières" type="text"/>
+	</card>
+</database>
