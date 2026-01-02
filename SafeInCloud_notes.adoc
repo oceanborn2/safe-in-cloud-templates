@@ -1,0 +1,22 @@
+:doctitle: Safe in cloud notes
+:author: Pascal Munerot
+:email: pascal.munerot@gmail.com
+:revdate:
+
+:numbered:
+:toc:
+:toclevels: 3
+
+== Tickets
+
+https://safeincloud.ladesk.com[Safeincloud ladesk for support faq and tickets]
+
+
+
+
+== Related sites and repositories
+
+
+
+- https://github.com/evilsocket/SafeInCloud[]
+
